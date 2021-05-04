@@ -1,0 +1,15 @@
+{
+  "name": "el",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "main.js",
+  "version": "1.0.0",
+  "author": "nikitakot",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^13.0.0-beta.12"
+  }
+}
